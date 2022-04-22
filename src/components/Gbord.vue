@@ -41,7 +41,7 @@ margin: 20px;
 </style>
 <script>
 import Cell from "./Call.vue";
-import Board from "./../Board";
+import Board from "../Board";
 
 export default {
   name: "GameBoard",
